@@ -41,7 +41,7 @@ func (h *defaultHandler) Invoke(ctx context.Context, payload []byte) ([]byte, er
 	h.e.ServeHTTP(rw, req)
 
 	h.e.Logger.Info("call httplam.APIGatewayV2HTTPResponseBuilder.Build")
-	err = rw.Build()
+	_, err = rw.Build()
 	if err != nil {
 		h.e.Logger.Error("failed to httplam.APIGatewayV2HTTPResponseBuilder.Build")
 		h.e.Logger.Error(err)

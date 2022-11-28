@@ -1,7 +1,13 @@
 github.com/aws-serverless-go/httplam v0.0.0-20221012170614-65e7708df51d h1:uFbZeOhJwmEBCtHsDo+01sFTdFoTwVxDWNRCvmE2SGw=
 github.com/aws-serverless-go/httplam v0.0.0-20221012170614-65e7708df51d/go.mod h1:3dzLDVheDakWz+l7R6wW8zcyipkvHzgAADCvneKHA2w=
+github.com/aws-serverless-go/httplam v0.0.0-20221014120730-9358316e75cf h1:nFuuz0sIdGNmwoMNgF0nguF5nHdCzdzGFisvAHMJyIY=
+github.com/aws-serverless-go/httplam v0.0.0-20221014120730-9358316e75cf/go.mod h1:3dzLDVheDakWz+l7R6wW8zcyipkvHzgAADCvneKHA2w=
+github.com/aws-serverless-go/httplam v0.1.0 h1:ZTov8ZJSJGJJSl5LtIGuj+B/Z5+Uk5btba/heAx1q44=
+github.com/aws-serverless-go/httplam v0.1.0/go.mod h1:3dzLDVheDakWz+l7R6wW8zcyipkvHzgAADCvneKHA2w=
 github.com/aws/aws-lambda-go v1.34.1 h1:M3a/uFYBjii+tDcOJ0wL/WyFi2550FHoECdPf27zvOs=
 github.com/aws/aws-lambda-go v1.34.1/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
+github.com/aws/aws-lambda-go v1.35.0 h1:iocVDy5Cw5SCRrKOPHwarkdFwwy48OkfmHoE6SJ3ATg=
+github.com/aws/aws-lambda-go v1.35.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

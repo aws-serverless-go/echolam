@@ -3,7 +3,7 @@ module github.com/aws-serverless-go/echolam
 go 1.18
 
 require (
-	github.com/aws-serverless-go/httplam v0.0.0-20221012170614-65e7708df51d
+	github.com/aws-serverless-go/httplam v0.1.0
 	github.com/aws/aws-lambda-go v1.34.1
 	github.com/labstack/echo/v4 v4.9.0
 )
